@@ -1,0 +1,247 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.App-logo {
+  height: 200px;
+  width: auto;
+  float: left;
+  margin: 2%;
+  padding-left: 40px;
+}
+
+.App-header {
+  background-color: white;
+  height: 250px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.menu {
+  font-size: xx-large;
+  text-decoration: overline;
+  color: black;
+  margin-left: 40px;
+  float: right;
+}
+
+.menu:hover {
+  color: #51b8d9;
+}
+
+.menucontainer {
+  margin-top: 7%;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100%;
+  width: 100%;
+  height: 100%; /* NEW */
+}
+
+#portfolio {
+  height: 210px !important;
+}
+
+#contato {
+height: 900px;
+}
+
+.container {
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+.row {
+  position: relative;
+  margin: 0px 15px 0px 15px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+}
+
+
+
+
+.textonaimagem {
+  position: relative;
+  color: #06bee7;
+  text-align: left;
+  font-weight: bolder;
+  bottom: 52%;
+  left: 5%;
+  text-shadow: black 1px;
+}
+
+div .flex-container p{
+  font-size: x-large;
+  margin-right: 25px;
+}
+
+.textonaimagem h3 {
+  font-size: medium;
+}
+
+h1 {
+  text-align: left;
+  font-size: 50px;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+
+h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 35px;
+  margin: 0px;
+}
+
+.floatright {
+  float: right;
+}
+
+.fundocinza {
+  background-color: slategrey;
+}
+
+body {
+  background-color: ghostwhite;
+}
+
+iframe {
+  background-color: white !important;
+}
+
+
+.caixa {
+  margin-left: auto;
+  margin-right: auto;
+  flex-basis: 400px;
+  padding: 20px;
+  min-height: 100%;
+  max-height: 450px;
+}
+
+
+.portfolio {
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100%;
+  flex-basis: 18%;
+  flex-wrap: wrap;
+
+}
+
+.portfolio:hover {
+  flex-basis: 19%;
+}
+
+@keyframes fadein {
+	0% { opacity: 0 }
+	100% { opacity: 1 }
+}
+
+.fadein {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 2s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+
+@media screen and (max-width: 1200px) {
+
+  h2{
+    font-size: 30px;
+  }
+
+}
+
+
+@media screen and (max-width: 600px) {
+  h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 35px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .App-header {
+    height: 200px;
+  }
+
+  .caixa {
+    height: 300px;
+    margin-bottom: 12%;
+  }
+
+  .App-logo {
+    height: 200px;
+    width: auto;
+    float: none;
+    margin: 0%;
+    padding-left: 0px;
+}
+
+  p {
+    margin: 0px;
+    text-align: left;
+  }
+
+.textonaimagem {
+  position: relative;
+  color: #06bee7;
+  text-align: left;
+  font-weight: bolder;
+  bottom: 67%;
+  left: 5%;
+  text-shadow: black 1px;
+}
+
+.portfolio {
+margin-left: auto;
+margin-right: auto;
+flex-basis: 80%;
+padding: 10%;
+}
+
+.flex-container{
+  display: contents;
+}
+
+}
+

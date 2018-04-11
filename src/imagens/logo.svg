@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="199.46387"
+   height="173.42921"
+   viewBox="0 0 199.46387 173.42922"
+   enable-background="new 0 0 640 480"
+   xml:space="preserve"
+   sodipodi:docname="logo_site_wti.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata24"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs22" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview20"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="1.9666667"
+   inkscape:cx="281.43212"
+   inkscape:cy="77.915844"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<radialGradient
+   id="SVGID_1_"
+   cx="255.9082"
+   cy="225.064"
+   r="58.459801"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(-217.028,-152.103)">
+	<stop
+   offset="0.3064"
+   style="stop-color:#06BEE7"
+   id="stop2" />
+	<stop
+   offset="1"
+   style="stop-color:#0380A8"
+   id="stop4" />
+</radialGradient>
+<path
+   d="m 71.637,48.7 c -1.678,0 -3.119,0.602 -4.319,1.804 -1.203,1.203 -1.804,2.627 -1.804,4.272 v 66.839 c 0,3.355 -1.188,6.219 -3.561,8.593 -2.373,2.374 -5.238,3.561 -8.592,3.561 h -3.038 c -0.823,0 -1.535,-0.3 -2.136,-0.902 -0.602,-0.601 -0.902,-1.312 -0.902,-2.136 V 61.775 c 2.399,-1.822 3.95,-4.705 3.95,-7.951 0,-5.511 -4.468,-9.979 -9.979,-9.979 -5.511,0 -9.979,4.468 -9.979,9.979 0,3.203 1.51,6.051 3.855,7.876 v 69.031 c 0,0.823 -0.301,1.535 -0.902,2.136 -0.603,0.603 -1.314,0.902 -2.136,0.902 h -3.038 c -3.356,0 -6.219,-1.187 -8.592,-3.561 -2.374,-2.374 -3.561,-5.237 -3.561,-8.593 V 17.162 C 18.786,15.347 19.959,12.801 19.959,9.979 19.959,4.467 15.491,0 9.979,0 4.468,0 0,4.468 0,9.979 c 0,3.594 1.901,6.743 4.751,8.5 v 103.137 c 0,6.711 2.373,12.438 7.12,17.186 4.748,4.747 10.475,7.121 17.185,7.121 h 6.076 12.153 6.076 c 6.708,0 12.438,-2.374 17.185,-7.121 4.748,-4.747 7.121,-10.475 7.121,-17.186 v -66.08 c 0.062,-0.38 0.095,-0.632 0.095,-0.76 0,-1.645 -0.602,-3.069 -1.804,-4.272 C 74.754,49.302 73.314,48.7 71.637,48.7 Z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+<path
+   d="M 149.367,48.7 H 88.604 c -1.709,0 -3.149,0.602 -4.32,1.804 -1.172,1.203 -1.757,2.644 -1.757,4.32 0,1.678 0.585,3.102 1.757,4.272 1.17,1.172 2.611,1.756 4.32,1.756 h 24.306 v 78.993 c 0,1.709 0.6,3.148 1.803,4.319 1.202,1.172 2.626,1.757 4.273,1.757 1.645,0 3.068,-0.585 4.271,-1.757 1.202,-1.171 1.805,-2.61 1.805,-4.319 V 60.852 h 24.305 c 1.709,0 3.148,-0.584 4.32,-1.756 1.17,-1.171 1.756,-2.595 1.756,-4.272 0,-1.677 -0.602,-3.117 -1.803,-4.32 -1.203,-1.202 -2.628,-1.804 -4.273,-1.804 z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#231f20" />
+<path
+   d="m 190.687,133.769 h -5.981 V 60.853 h 5.981 c 1.707,0 3.147,-0.584 4.319,-1.756 1.171,-1.171 1.757,-2.595 1.757,-4.272 0,-1.677 -0.586,-3.117 -1.757,-4.32 -1.172,-1.202 -2.612,-1.804 -4.319,-1.804 h -24.306 c -1.647,0 -3.071,0.602 -4.272,1.804 -1.203,1.203 -1.805,2.644 -1.805,4.32 0,1.678 0.602,3.102 1.805,4.272 1.201,1.172 2.625,1.756 4.272,1.756 h 6.171 v 72.916 h -6.171 c -1.647,0 -3.071,0.603 -4.272,1.804 -1.203,1.203 -1.805,2.645 -1.805,4.32 0,1.678 0.602,3.102 1.805,4.272 1.201,1.172 2.625,1.757 4.272,1.757 h 24.306 c 1.707,0 3.147,-0.585 4.319,-1.757 1.171,-1.171 1.757,-2.595 1.757,-4.272 0,-1.676 -0.586,-3.117 -1.757,-4.32 -1.172,-1.201 -2.612,-1.804 -4.319,-1.804 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#231f20" />
+<text
+   font-size="16.6082"
+   id="text13"
+   style="font-size:16.60820007px;font-family:Exo-Regular;fill:#231f20"
+   x="3.6282041"
+   y="169.82861"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto"
+     id="tspan26">Criação de websites e SEO</tspan></text>
+
+<circle
+   cx="41.278"
+   cy="52.783001"
+   r="4.0819998"
+   id="circle15"
+   style="fill:#ffffff" />
+<circle
+   cx="9.9790039"
+   cy="9.5250063"
+   r="4.0819998"
+   id="circle17"
+   style="fill:#ffffff" />
+</svg>

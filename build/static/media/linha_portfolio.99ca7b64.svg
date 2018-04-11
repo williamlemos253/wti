@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="773.12402"
+   height="53.723"
+   viewBox="0 0 773.12402 53.723"
+   enable-background="new 0 0 1600 480"
+   xml:space="preserve"
+   sodipodi:docname="linha_portfolio.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview12"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.2375"
+   inkscape:cx="386.599"
+   inkscape:cy="27.12"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<radialGradient
+   id="SVGID_1_"
+   cx="799.96338"
+   cy="240.2583"
+   r="273.99969"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(-413.401,-213.397)">
+	<stop
+   offset="0.3064"
+   style="stop-color:#06BEE7"
+   id="stop2" />
+	<stop
+   offset="1"
+   style="stop-color:#0380A8"
+   id="stop4" />
+</radialGradient>
+<path
+   d="M 746.264,0 C 733.529,0 722.888,8.871 720.123,20.766 H 9.471 c -5.23,0 -9.471,4.24 -9.471,9.471 0,5.231 4.24,9.472 9.471,9.472 h 713.2 c 4.557,8.348 13.412,14.014 23.593,14.014 14.835,0 26.86,-12.026 26.86,-26.86 C 773.124,12.026 761.099,0 746.264,0 Z"
+   id="path7"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+<circle
+   cx="746.81104"
+   cy="26.860996"
+   r="15.405"
+   id="circle9"
+   style="fill:#ffffff" />
+</svg>

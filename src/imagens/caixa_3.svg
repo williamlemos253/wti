@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="408.14099"
+   height="419.02499"
+   viewBox="0 0 408.14097 419.025"
+   enable-background="new 0 0 582.353 480"
+   xml:space="preserve"
+   sodipodi:docname="caixa_3.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs23" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview21"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="1.3906433"
+   inkscape:cx="-209.5044"
+   inkscape:cy="234.62719"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="m 408.141,406.9852 c 0,6.65057 -5.896,12.03979 -13.169,12.03979 H 13.168 C 5.895,419.02499 0,413.63577 0,406.9852 V 57.919708 C 0,51.270141 5.896,45.879916 13.168,45.879916 h 381.804 c 7.273,0 13.169,5.390225 13.169,12.039792 z"
+   id="path2"
+   inkscape:connector-curvature="0"
+   style="opacity:0.3;fill:#9ab5bc;stroke-width:0.99697351" />
+<g
+   id="g18"
+   transform="matrix(1,0,0,0.95955276,-115.319,-25.643088)">
+	<radialGradient
+   id="SVGID_1_"
+   cx="336.73099"
+   cy="76.958"
+   r="50.2346"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0.3064"
+   style="stop-color:#06BEE7"
+   id="stop4" />
+		<stop
+   offset="1"
+   style="stop-color:#0380A8"
+   id="stop6" />
+	</radialGradient>
+	<path
+   d="m 353.411,40.046 -60.594,60.595 c -0.481,0.481 -0.826,1.082 -0.997,1.741 l -5.201,20.03 c -0.34,1.312 0.039,2.704 0.997,3.663 0.726,0.725 1.701,1.119 2.701,1.119 0.321,0 0.643,-0.04 0.961,-0.122 l 20.03,-5.201 c 0.659,-0.172 1.26,-0.516 1.741,-0.997 l 60.593,-60.593 c 0.002,-10e-4 0.003,-0.002 0.004,-0.002 0,0 0.002,-0.002 0.002,-0.003 l 12.199,-12.199 c 1.492,-1.492 1.492,-3.911 0,-5.403 l -14.828,-14.83 c -0.717,-0.717 -1.688,-1.12 -2.701,-1.12 -1.013,0 -1.984,0.402 -2.701,1.12 l -12.198,12.198 c -10e-4,10e-4 -0.003,0.002 -0.003,0.003 -0.002,-0.001 -0.003,10e-4 -0.005,10e-4 z m -45.03,74.688 -12.732,3.306 3.306,-12.731 57.161,-57.16 9.426,9.426 z m 59.936,-78.787 9.426,9.426 -6.799,6.798 -9.425,-9.426 z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+	<radialGradient
+   id="SVGID_2_"
+   cx="319.38919"
+   cy="121.687"
+   r="74.4217"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0.3064"
+   style="stop-color:#06BEE7"
+   id="stop11" />
+		<stop
+   offset="1"
+   style="stop-color:#0380A8"
+   id="stop13" />
+	</radialGradient>
+	<path
+   d="m 383.145,68.129 c -2.109,0 -3.82,1.711 -3.82,3.821 V 194.733 H 259.455 V 48.64 h 70.725 c 2.11,0 3.821,-1.711 3.821,-3.821 0,-2.11 -1.711,-3.821 -3.821,-3.821 h -74.545 c -2.109,0 -3.821,1.711 -3.821,3.821 v 153.735 c 0,2.109 1.711,3.821 3.821,3.821 h 127.511 c 2.109,0 3.82,-1.711 3.82,-3.821 V 71.95 c -0.001,-2.11 -1.711,-3.821 -3.821,-3.821 z"
+   id="path16"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_2_)" />
+</g>
+</svg>
