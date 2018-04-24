@@ -4,9 +4,12 @@ export default class Caixa extends React.Component {
     render() {
       return (
         <div className="caixa">
-            <img src={this.props.caixa} width="100%" alt={this.props.alt}/>
-            <h3 className="textonaimagem">{this.props.titulo}</h3>
-            <p className="textonaimagem">{this.props.descricao}</p>
+          <div className="fundoredondo">
+            <i className="fas fa-bullseye fa-5x textocentralizado textovertical"></i>
+          </div>
+            <h3 className="gap">{this.props.titulo}</h3>
+            <p>{this.props.descricao}</p>
+          
         </div>
 
       );

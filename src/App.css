@@ -1,7 +1,9 @@
+
 .App {
   text-align: center;
   background-color: white;
 }
+
 
 .App-logo {
   height: 200px;
@@ -26,6 +28,26 @@
   font-size: large;
 }
 
+.textocentralizado {
+  text-align: center;
+}
+
+.textoadireita {
+  text-align: right;
+  float: right;
+} 
+
+.textovertical {
+  padding-top: 25%;
+}
+
+
+.textohover:hover {
+  color: #06bee7;
+}
+
+
+
 .menu {
   font-size: xx-large;
   text-decoration: overline;
@@ -44,14 +66,44 @@
 
 .flex-container {
   display: flex;
-  flex-wrap: wrap;
-  min-height: 100%;
-  width: 100%;
-  height: 100%; /* NEW */
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: space-around;
+}
+
+.flex-container2{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+}
+
+.gap {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.bloco {
+  flex-grow: 1;
+  width: 250px;
+  height: auto;
+  margin: 15px;
+}
+
+
+.borda {
+  border-width: 1px;
+  border-color: #51b8d9;
+  border-style: solid;
+  padding: 5px;
 }
 
 #portfolio {
-  height: 210px !important;
+  display: content;
 }
 
 #contato {
@@ -63,53 +115,41 @@ height: 900px;
   margin: 0 auto;
 }
 
-.row {
-  position: relative;
-  margin: 0px 15px 0px 15px;
+.branco {
+  color: white;
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
-  text-align: justify;
-}
-
-
-
-
-.textonaimagem {
-  position: relative;
-  color: #06bee7;
   text-align: left;
-  font-weight: bolder;
-  bottom: 52%;
-  left: 5%;
-  text-shadow: black 1px;
+  font-size: 2vh;
+  color: gray;
+  margin: 5px;
+  flex-basis: 100%;
+  font-family: sans-serif;
+  text-indent:0.7em;
 }
 
-div .flex-container p{
-  font-size: x-large;
-  margin-right: 25px;
-}
 
-.textonaimagem h3 {
-  font-size: medium;
-}
+
+
 
 h1 {
   text-align: left;
-  font-size: 50px;
-  margin-top: 0px;
-  margin-left: 20px;
+  font-size: 4vh;
+  margin: 5px;
+  flex-grow: 1;
+  flex: 1 1 auto;
+  padding: 20px;
 }
 
 
 h2 {
-  font-size: 40px;
+  font-size: 3.1vh;
   margin: 0px;
 }
 
 h3 {
-  font-size: 35px;
+  font-size: 25px;
   margin: 0px;
 }
 
@@ -125,32 +165,55 @@ body {
   background-color: ghostwhite;
 }
 
-iframe {
-  background-color: white !important;
+.footer{
+  background-color: black;
+  padding: 40px 0px 40px 0px;
+  width: 100%;
 }
 
+
+.fundoredondo {
+  border-radius: 50%;
+  background-color: #06bee7;
+  background-size: 200px;
+  width:150px;
+  height:150px;
+  padding: 0px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  z-index: 1;
+}
+
+.fundoredondo:hover {
+ padding: 10px;
+}
 
 .caixa {
   margin-left: auto;
   margin-right: auto;
   flex-basis: 400px;
-  padding: 20px;
-  min-height: 100%;
-  max-height: 450px;
+  padding: 25px;
+  height: 400px;
+  align-content: space-between;
+  align-items: center;
+  justify-content: center;
 }
 
 
 .portfolio {
   margin-left: auto;
   margin-right: auto;
-  min-height: 100%;
-  flex-basis: 18%;
-  flex-wrap: wrap;
-
+  flex-basis: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
 
 .portfolio:hover {
-  flex-basis: 19%;
+  -webkit-filter: grayscale(0);
+	filter: grayscale(0);
 }
 
 @keyframes fadein {
@@ -178,23 +241,13 @@ iframe {
 
 @media screen and (max-width: 1200px) {
 
-  h2{
-    font-size: 30px;
-  }
+
+
 
 }
 
 
-@media screen and (max-width: 600px) {
-  h1{
-    margin-top: 20px;
-    margin-bottom: 10px;
-    font-size: 35px;
-  }
-
-  h2{
-    font-size: 20px;
-  }
+@media screen and (max-width: 690px) {
 
   .menu {
     display: none;
@@ -204,10 +257,6 @@ iframe {
     height: 200px;
   }
 
-  .caixa {
-    height: 300px;
-    margin-bottom: 12%;
-  }
 
   .App-logo {
     height: 200px;
@@ -217,31 +266,8 @@ iframe {
     padding-left: 0px;
 }
 
-  p {
-    margin: 0px;
-    text-align: left;
-  }
 
-.textonaimagem {
-  position: relative;
-  color: #06bee7;
-  text-align: left;
-  font-weight: bolder;
-  bottom: 67%;
-  left: 5%;
-  text-shadow: black 1px;
-}
 
-.portfolio {
-margin-left: auto;
-margin-right: auto;
-flex-basis: 80%;
-padding: 10%;
-}
-
-.flex-container{
-  display: contents;
-}
 
 }
 
